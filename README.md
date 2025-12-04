@@ -1,4 +1,4 @@
-## COFFEE SHOP SALES
+### COFFEE SHOP SALES
 
 #   over view 
 
@@ -89,15 +89,15 @@ CHARTS REQUIREMENTS
   # Dashboard Insights
   
   1.Sales Trend Over Time:
-   -Daily sales performance visualized across the entire month to identify peaks and slow periods.
+   - Daily sales performance visualized across the entire month to identify peaks and slow periods.
   2.Category Performance:
-    -Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
+    - Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
   3. Store Location Analysis:
-    -Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
+    - Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
   4.Weekend vs Weekday Sales:
-    -Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
+    - Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
   5. Hourly Sales Heatmap:
-     -Identifies the busiest hours of the day and the most active days for each time slot.
+    - Identifies the busiest hours of the day and the most active days for each time slot.
   
   # Purpose
 
