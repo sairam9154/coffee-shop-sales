@@ -27,10 +27,10 @@ and visual insights into a single, easy-to-use analytics tool.
   - Calculate the difference in the total quantity sold between the selected month and the previous month
 
 CHARTS REQUIREMENTS
-  1. Calendar Heat Map:
-    - Implement a calendar heat map that dynamically adjusts based on the selected month from a slicer.
-    -Each day on the calendar will be color-coded to represent sales volume, with darker shades indicating higher sales.
-    - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day.
+1. Calendar Heat Map:
+   - Implement a calendar heat map that dynamically adjusts based on the selected month from a slicer.
+   -Each day on the calendar will be color-coded to represent sales volume, with darker shades indicating higher sales.
+   - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day.
 
 2. Sales Analysis by Weekdays and Weekends:
   - Segment sales data into weekdays and weekends to analyze performance variations.
@@ -39,7 +39,7 @@ CHARTS REQUIREMENTS
 3. Sales Analysis by Store Location:
   - Visualize sales data by different store locations.
   - Include month-over-month (MoM) difference metrics based on the selected month in the slicer.
-   -Highlight MoM sales increase or decrease for each store location to identify trends.
+  -Highlight MoM sales increase or decrease for each store location to identify trends.
 
 4. Daily Sales Analysis with Average Line:
  - Display daily sales for the selected month with a line chart.
@@ -88,25 +88,25 @@ CHARTS REQUIREMENTS
       
   # Dashboard Insights
   
-   Sales Trend Over Time:
-    -Daily sales performance visualized across the entire month to identify peaks and slow periods.
-   Category Performance:
-    - Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
-   Store Location Analysis:
-    --Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
-   Weekend vs Weekday Sales:
+   1.Sales Trend Over Time:
+   -Daily sales performance visualized across the entire month to identify peaks and slow periods.
+   2.Category Performance:
+    -Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
+  3. Store Location Analysis:
+    -Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
+   4.Weekend vs Weekday Sales:
      --Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
-    Hourly Sales Heatmap:
+   5. Hourly Sales Heatmap:
      --Identifies the busiest hours of the day and the most active days for each time slot.
   
   # Purpose
 
-This dashboard helps business stakeholders:
-     - Track key performance indicators (KPIs)
-     - Identify growth opportunities
-     - Understand customer buying behavior
-     - Optimize store operations and inventory
-      -Compare performance across locations and product categories
+  1. This dashboard helps business stakeholders:
+   - Track key performance indicators (KPIs)
+   - Identify growth opportunities
+   - Understand customer buying behavior
+   - Optimize store operations and inventory
+   -Compare performance across locations and product categories
 
 
 
