@@ -80,12 +80,14 @@ CHARTS REQUIREMENTS
 
   # Dashboard Preview
    
+<img width="1307" height="967" alt="Screenshot 2025-12-05 000101" src="https://github.com/user-attachments/assets/82282eed-020f-46f0-bf38-0c3aac7f898a" />
 
 
 
 
 
       
+   
    Dashboard Insights
   
   1.Sales Trend Over Time:
