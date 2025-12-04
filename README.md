@@ -78,8 +78,9 @@ CHARTS REQUIREMENTS
    - Totals  (sales,orders,quantity) 
    - avg sales , day and hours , some labels are also using dax formulas
 
-
-
+  # Dashboard Preview
+   
+   
 
 
 
