@@ -79,7 +79,7 @@ CHARTS REQUIREMENTS
    - avg sales , day and hours , some labels are also using dax formulas
 
   # Dashboard Preview
-   
+   ttps://github.com/sairam9154/coffee-shop-sales/blob/main/Coffe_sales_dashboard.pbix
       
 
 
