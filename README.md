@@ -1,6 +1,6 @@
-### COFFEE SHOP SALES
+## COFFEE SHOP SALES
 
-#   over view 
+   over view 
 
 This project presents an interactive Coffee Shop Sales Dashboard built to analyze key business metrics for the month of JAN 2023 TO June 2023 Sales
 The dashboard provides a comprehensive view of store performance, customer behavior, and product category insights, enabling data-driven decision-making.
@@ -8,7 +8,7 @@ The dashboard provides a comprehensive view of store performance, customer behav
 This project aims to solve these issues by developing an interactive Coffee Shop Sales Dashboard that consolidates all key KPIs
 and visual insights into a single, easy-to-use analytics tool.
 
-# Questions 
+ Questions 
 
  KPI REQUIREMENTS
  1. Total Sales Analysis:
@@ -59,7 +59,7 @@ CHARTS REQUIREMENTS
  - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
 
 
-## TOOLS AND METHODOLOGY
+ TOOLS AND METHODOLOGY
 
   TOOL USED 
    - SQL - Cleaning data types and extract values in database and also check cross validation
@@ -67,12 +67,12 @@ CHARTS REQUIREMENTS
     -power bi - to prepare dashboards using KPI ,Charts 
     
      
-  # Methodology
+   Methodology
    1.Data Cleaning 
     - Removed duplicates and handled missing entries.
      -Verified date formats
 
-  # Dax Measure 
+   Dax Measure 
    - Month on Month Growth and Diff ( sales , orders , quantity) using dax formulas to  be calculate
    - Current  ,Previous (sales, orders,quantity) using dax measure
    - Totals  (sales,orders,quantity) 
@@ -86,20 +86,20 @@ CHARTS REQUIREMENTS
 
 
       
-  # Dashboard Insights
+   Dashboard Insights
   
   1.Sales Trend Over Time:
    - Daily sales performance visualized across the entire month to identify peaks and slow periods.
   2.Category Performance:
-    - Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
+   - Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
   3. Store Location Analysis:
-    - Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
+   - Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
   4.Weekend vs Weekday Sales:
-    - Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
+   - Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
   5. Hourly Sales Heatmap:
-    - Identifies the busiest hours of the day and the most active days for each time slot.
+   - Identifies the busiest hours of the day and the most active days for each time slot.
   
-  # Purpose
+   Purpose
 
   1. This dashboard helps business stakeholders:
    - Track key performance indicators (KPIs)
