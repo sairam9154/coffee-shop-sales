@@ -12,9 +12,9 @@ and visual insights into a single, easy-to-use analytics tool.
 
  KPI REQUIREMENTS
  1. Total Sales Analysis:
-    - Calculate the total sales for each respective month.
+   - Calculate the total sales for each respective month.
    -  Determine the month-on-month increase or decrease in sales.
-    - Calculate the difference in sales between the selected month and the previous month.
+   - Calculate the difference in sales between the selected month and the previous month.
 
 3. Total Orders Analysis:
   - Calculate the total number of orders for each respective month.
@@ -44,7 +44,7 @@ CHARTS REQUIREMENTS
 4. Daily Sales Analysis with Average Line:
  - Display daily sales for the selected month with a line chart.
  - Incorporate an average line on the chart to represent the average daily sales.
-- Highlight bars exceeding or falling below the average sales to identify exceptional sales days.
+ - Highlight bars exceeding or falling below the average sales to identify exceptional sales days.
 
 5. Sales Analysis by Product Category:
  - Analyze sales performance across different product categories.
@@ -69,8 +69,8 @@ CHARTS REQUIREMENTS
      
   # Methodology
    1.Data Cleaning 
-         Removed duplicates and handled missing entries.
-         Verified date formats
+    - Removed duplicates and handled missing entries.
+     -Verified date formats
 
   # Dax Measure 
    - Month on Month Growth and Diff ( sales , orders , quantity) using dax formulas to  be calculate
@@ -89,24 +89,24 @@ CHARTS REQUIREMENTS
   # Dashboard Insights
   
    Sales Trend Over Time:
-              --Daily sales performance visualized across the entire month to identify peaks and slow periods.
+    -Daily sales performance visualized across the entire month to identify peaks and slow periods.
    Category Performance:
-             -- Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
+    - Coffee, tea, bakery, and beverage categories show detailed revenue contribution and growth percentages.
    Store Location Analysis:
-             --Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
+    --Sales performance by stores such as Astoria, Hell’s Kitchen, and Lower Manhattan with MoM comparison.
    Weekend vs Weekday Sales:
-            --Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
+     --Weekend sales contribute 25.9%, while weekdays account for 74.4% of total sales.
     Hourly Sales Heatmap:
-            --Identifies the busiest hours of the day and the most active days for each time slot.
+     --Identifies the busiest hours of the day and the most active days for each time slot.
   
   # Purpose
 
 This dashboard helps business stakeholders:
-      Track key performance indicators (KPIs)
-      Identify growth opportunities
-      Understand customer buying behavior
-      Optimize store operations and inventory
-      Compare performance across locations and product categories
+     - Track key performance indicators (KPIs)
+     - Identify growth opportunities
+     - Understand customer buying behavior
+     - Optimize store operations and inventory
+      -Compare performance across locations and product categories
 
 
 
